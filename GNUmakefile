@@ -23,6 +23,8 @@ LABSETUP ?= ./
 
 TOP = .
 
+QEMU = ../../Install/bin/qemu-system-i386
+
 # Cross-compiler jos toolchain
 #
 # This Makefile will automatically use the cross-compiler toolchain
